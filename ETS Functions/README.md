@@ -1,3 +1,5 @@
+## Forecasting using ETS Functions
+
 This was the first assignment on simple smoothing and Holt Winters models. The aim is to develop an understanding of the following terms: 
 	- Different ETS models (including Holt Winters') and understanding Level, Trend and Seasonality parameters in a Time Series model 
 	- Understanding the ts() graphs  
