@@ -1,4 +1,1 @@
-# Time-Series-Forecasting
-During my  second half of the fall semester in 2019, I learnt about Time Series Forecasting and how it is applied in the daily business of Supply Chain function across industries. 
-
-Following are the three exercises that were given as a part of this course, which deals with basic concepts of Time Series, starting from ETS to ARIMA and ties it to the business of Supply Chain
+Forecasting using ANN technique. The data used is simiilar to that used in XGboost forecasting. The ANN is build on KERAS with just 3 layers after data manupulations. With the 3 layers the resultant loss reduced a lot in comparison to other methods 
